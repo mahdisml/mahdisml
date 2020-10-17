@@ -1,6 +1,9 @@
 ### Hi there 👋
+I'm AI Researcher , Designer , MobileDev (Kotlin/Java) , GameDeveloper 🚀 
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdisml)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdisml&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 -->
