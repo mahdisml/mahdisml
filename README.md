@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm AI Researcher , Designer , MobileDev (Kotlin/Java) , GameDeveloper 🚀 
 
+My Favorite Language : Kotlin
+
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdisml)](https://github.com/anuraghazra/github-readme-stats)
 -->
