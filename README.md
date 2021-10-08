@@ -28,9 +28,15 @@ Here are some ideas to get you started:
 <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api/?username=mahdisml&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="300">
 -->
+
+<!--
+
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdisml&layout=compact&theme=highcontrast&langs_count=10&hide_border=true" width="369"> 
 </p>
+
+-->
+
 <!--
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdisml&layout=compact&theme=highcontrast&langs_count=10&hide_border=true" width="500"/>
 -->
