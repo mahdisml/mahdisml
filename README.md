@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm AI Researcher , Designer , MobileDev (Kotlin/Java) , GameDeveloper 🚀 
+I'm an (App,Game) Developer and Designer 🚀
 
 My Favorite Language : Kotlin
 
