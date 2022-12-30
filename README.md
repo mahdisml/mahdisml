@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <!--
 <div style="display: inline">
   <img src="https://github-readme-stats.vercel.app/api/?username=mahdisml&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="300">
+
 -->
 
 <!--
@@ -43,3 +44,8 @@ Here are some ideas to get you started:
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdisml&layout=compact&theme=highcontrast&langs_count=10&hide_border=true" width="500"/>
 -->
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1758504/210092686-cd0f02bd-624a-4a51-9022-6ee439ffad04.png" width="350" height="350" alt="AI RESPONSE"/>
+  <h3 align="center">Artificial intelligence (AI) Loves me ! What about you ? :)</h3>
+</p>
+
