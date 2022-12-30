@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 </div>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1758504/210092686-cd0f02bd-624a-4a51-9022-6ee439ffad04.png" width="350" height="350" alt="AI RESPONSE"/>
+  <img src="https://user-images.githubusercontent.com/1758504/210092686-cd0f02bd-624a-4a51-9022-6ee439ffad04.png" width="485" height="416" alt="AI RESPONSE"/>
   <h3 align="center">Artificial intelligence (AI) Loves me ! What about you ? :)</h3>
 </p>
 
